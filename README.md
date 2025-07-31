@@ -41,6 +41,10 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 A implementação de ferramentas na empresa Abstergo Industries trouxe como esperado a redução imediata de custos com infraestrutura, maior segurança e disponibilidade de dados, além de maior agilidade e automação de tarefas. O uso combinado de EC2, S3 e Lambda aumentou a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
+----
+## Anexos
+
+[Documentação de Implantação, Planilha de Simulação de Custos e Simulados dos serviços na AWS]
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
