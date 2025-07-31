@@ -23,3 +23,9 @@ Função: processaEmail
 Triggers: S3 (novo arquivo)
 Status: Ativo
 Última execução: 17/07/2025 10:32
+
+
+---
+
+**Assinatura do Responsável pelo Projeto:**  
+Alberto Marques Nunes
