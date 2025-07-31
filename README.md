@@ -44,7 +44,9 @@ A implementação de ferramentas na empresa Abstergo Industries trouxe como espe
 ----
 ## Anexos
 
-[Documentação de Implantação, Planilha de Simulação de Custos e Simulados dos serviços na AWS]
+- Documentação de Implantação;
+- Planilha de Simulação de Custos;
+- Simulados dos serviços na AWS
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
